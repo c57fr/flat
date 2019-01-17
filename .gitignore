@@ -1,1 +1,9 @@
-/storage/framework/cache
+vendor/
+
+storage/logs/
+storage/framework/cache/
+
+storage/*.key
+.env.*.php
+.env.php
+.env
