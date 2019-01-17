@@ -1,0 +1,16 @@
+1547716202a:1:{s:10:"welcome.md";a:6:{s:8:"fileName";s:10:"welcome.md";s:7:"content";s:139:"You know what I like more than *material things?*
+
+### Knowledge!
+
++ You must have enough fuel units
++ You must construct additional pylons";s:5:"mtime";i:1547715542;s:6:"markup";s:139:"You know what I like more than *material things?*
+
+### Knowledge!
+
++ You must have enough fuel units
++ You must construct additional pylons";s:4:"code";N;s:12:"parsedMarkup";s:181:"<p>You know what I like more than <em>material things?</em></p>
+<h3>Knowledge!</h3>
+<ul>
+<li>You must have enough fuel units</li>
+<li>You must construct additional pylons</li>
+</ul>";}}

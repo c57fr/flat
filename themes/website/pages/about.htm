@@ -1,0 +1,10 @@
+url = "/about/:filename?"
+layout = "default"
+==
+function onStart()
+{
+    $filename = $this->param('filename', 'welcome');
+    $this['filename'] = strtolower($filename);
+}
+==
+{% content filename ~ '.md' %}
