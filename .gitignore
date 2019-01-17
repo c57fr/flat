@@ -1,4 +1,4 @@
 vendor/
 
-storage/logs/
-storage/framework/cache/
+storage/logs/*
+storage/framework/cache/*
